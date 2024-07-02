@@ -1,0 +1,275 @@
+{
+  "name": "金铲铲s11","image": "画中灵.png",
+  "children": [
+    {
+      "name": "剪纸",
+      "size": 59.80,
+      "image": "剪纸.png",
+      "children": [
+        {"name": "艾瑞莉娅", "size": 17.70, "image": "艾瑞莉娅.png"},
+        {"name": "加里奥", "size": 13.50, "image": "加里奥.png"},
+        {"name": "盖伦", "size": 8.10, "image": "盖伦.png"},
+        {"name": "婕拉", "size": 12.00, "image": "婕拉.png"},
+        {"name": "锐雯", "size": 9.90, "image": "锐雯.png"},
+        {"name": "佐伊", "size": 9.10, "image": "佐伊.png"},
+        {"name": "希维尔", "size": 8.70, "image": "希维尔.png"}
+      ]
+    },
+    {
+      "name": "灵魂莲华",
+      "size": 58.70,
+      "image": "灵魂莲华.png",
+      "children": [
+        {"name": "千珏", "size": 11.30, "image": "千珏.png"},
+        {"name": "厄斐琉斯", "size": 8.30, "image": "厄斐琉斯.png"},
+        {"name": "辛德拉", "size": 8.10, "image": "辛德拉.png"},
+        {"name": "阿狸", "size": 5.40, "image": "阿狸.png"},
+        {"name": "锤石", "size": 5.20, "image": "锤石.png"},
+        {"name": "亚索", "size": 0.90, "image": "亚索.png"},
+        {"name": "瑟提", "size": 17.50, "image": "瑟提.png"}
+      ]
+    },
+    {
+      "name": "山海绘卷",
+      "size": 55.40,
+      "image": "山海绘卷.png",
+      "children": [
+        {"name": "慧", "size": 16.40, "image": "慧.png"},
+        {"name": "妮蔻", "size": 10.20, "image": "妮蔻.png"},
+        {"name": "诺提勒斯", "size": 12.00, "image": "诺提勒斯.png"},
+        {"name": "莉莉娅", "size": 11.10, "image": "莉莉娅.png"},
+        {"name": "科加斯", "size": 8.60, "image": "科加斯.png"},
+        {"name": "塔姆", "size": 8.50, "image": "塔姆.png"},
+        {"name": "巴德", "size": 2.10, "image": "巴德.png"},
+        {"name": "克格莫", "size": 10.70, "image": "克格莫.png"}
+      ]
+    },
+    {
+      "name": "夜幽",
+      "size": 54.00,
+      "image": "夜幽.png",
+      "children": [
+        {"name": "瑟提", "size": 17.50, "image": "瑟提.png"},
+        {"name": "德莱厄斯", "size": 6.90, "image": "德莱厄斯.png"},
+        {"name": "永恩", "size": 15.20, "image": "永恩.png"},
+        {"name": "塞拉斯", "size": 14.10, "image": "塞拉斯.png"},
+        {"name": "拉露恩", "size": 10.20, "image": "拉露恩.png"},
+        {"name": "约里克", "size": 9.70, "image": "约里克.png"}
+      ]
+    },
+    {
+      "name": "青花瓷",
+      "size": 33.70,
+      "image": "青花瓷.png",
+      "children": [
+        {"name": "丽桑卓", "size": 17.30, "image": "丽桑卓.png"},
+        {"name": "拉克丝", "size": 12.30, "image": "拉克丝.png"},
+        {"name": "阿木木", "size": 10.80, "image": "阿木木.png"},
+        {"name": "艾希", "size": 10.10, "image": "艾希.png"}
+      ]
+    },
+    {
+      "name": "幽魂",
+      "size": 32.40,
+      "image": "幽魂.png",
+      "children": [
+        {"name": "莫甘娜", "size": 15.50, "image": "莫甘娜.png"},
+        {"name": "亚托克斯", "size": 12.60, "image": "亚托克斯.png"},
+        {"name": "俄洛伊", "size": 12.00, "image": "俄洛伊.png"},
+        {"name": "慎", "size": 11.90, "image": "慎.png"},
+        {"name": "凯特琳", "size": 11.80, "image": "凯特琳.png"},
+        {"name": "凯隐", "size": 16.40, "image": "凯隐.png"}
+      ]
+    },
+    {
+      "name": "天将",
+      "size": 31.10,
+      "image": "天将.png",
+      "children": [
+        {"name": "孙悟空", "size": 22.80, "image": "孙悟空.png"},
+        {"name": "卡兹克", "size": 14.80, "image": "卡兹克.png"},
+        {"name": "索拉卡", "size": 13.80, "image": "索拉卡.png"},
+        {"name": "莫菲特", "size": 10.10, "image": "莫菲特.png"},
+        {"name": "奇亚娜", "size": 8.50, "image": "奇亚娜.png"},
+        {"name": "妮蔻", "size": 10.20, "image": "妮蔻.png"}
+      ]
+    },
+    {
+      "name": "狙神",
+      "size": 27.30,
+      "image": "狙神.png",
+      "children": [
+        {"name": "赛娜", "size": 11.90, "image": "赛娜.png"},
+        {"name": "凯特琳", "size": 11.80, "image": "凯特琳.png"},
+        {"name": "艾希", "size": 10.10, "image": "艾希.png"},
+        {"name": "厄斐琉斯", "size": 8.30, "image": "厄斐琉斯.png"},
+        {"name": "克格莫", "size": 10.70, "image": "克格莫.png"}
+      ]
+    },
+    {
+      "name": "武仙子",
+      "size": 27.30,
+      "image": "武仙子.png",
+      "children": [
+        {"name": "洛", "size": 21.50, "image": "洛.png"},
+        {"name": "索拉卡", "size": 13.80, "image": "索拉卡.png"},
+        {"name": "锐雯", "size": 9.90, "image": "锐雯.png"}
+      ]
+    },
+    {
+      "name": "墨之影",
+      "size": 26.20,
+      "image": "墨之影.png",
+      "children": [
+        {"name": "乌迪尔", "size": 21.40, "image": "乌迪尔.png"},
+        {"name": "亚托克斯", "size": 12.60, "image": "亚托克斯.png"},
+        {"name": "赛娜", "size": 11.90, "image": "赛娜.png"},
+        {"name": "卡莎", "size": 10.40, "image": "卡莎.png"},
+        {"name": "沃利贝尔", "size": 7.50, "image": "沃利贝尔.png"},
+        {"name": "贾克斯", "size": 7.10, "image": "贾克斯.png"}
+      ]
+    },
+    {
+      "name": "圣贤",
+      "size": 26.00,
+      "image": "圣贤.png",
+      "children": [
+        {"name": "孙悟空", "size": 22.80, "image": "孙悟空.png"},
+        {"name": "莫甘娜", "size": 15.50, "image": "莫甘娜.png"},
+        {"name": "婕拉", "size": 12.00, "image": "婕拉.png"},
+        {"name": "黛安娜", "size": 11.40, "image": "黛安娜.png"}
+      ]
+    },
+    {
+      "name": "天龙之子",
+      "size": 23.10,
+      "image": "天龙之子.png",
+      "children": [
+        {"name": "霞", "size": 19.80, "image": "霞.png"},
+        {"name": "迦娜", "size": 11.50, "image": "迦娜.png"},
+        {"name": "黛安娜", "size": 11.40, "image": "黛安娜.png"},
+        {"name": "李青", "size": 10.70, "image": "李青.png"},
+        {"name": "洛", "size": 21.50, "image": "洛.png"}
+      ]
+    },
+    {
+      "name": "法师",
+      "size": 22.40,
+      "image": "法师.png",
+      "children": [
+        {"name": "丽桑卓", "size": 17.30, "image": "丽桑卓.png"},
+        {"name": "拉克丝", "size": 12.30, "image": "拉克丝.png"},
+        {"name": "俄洛伊", "size": 12.00, "image": "俄洛伊.png"},
+        {"name": "妮蔻", "size": 10.20, "image": "妮蔻.png"},
+        {"name": "佐伊", "size": 9.10, "image": "佐伊.png"},
+        {"name": "辛德拉", "size": 8.10, "image": "辛德拉.png"},
+        {"name": "阿狸", "size": 5.40, "image": "阿狸.png"}
+      ]
+    },
+    {
+      "name": "永恒之森",
+      "size": 21.30,
+      "image": "永恒之森.png",
+      "children": [
+        {"name": "阿兹尔", "size": 16.80, "image": "阿兹尔.png"},
+        {"name": "雷克塞", "size": 11.90, "image": "雷克塞.png"},
+        {"name": "千珏", "size": 11.30, "image": "千珏.png"},
+        {"name": "奥恩", "size": 8.90, "image": "奥恩.png"},
+        {"name": "纳尔", "size": 3.90, "image": "纳尔.png"}
+      ]
+    },
+    {
+      "name": "斗士",
+      "size": 20.50,
+      "image": "斗士.png",
+      "children": [
+        {"name": "塞拉斯", "size": 14.10, "image": "塞拉斯.png"},
+        {"name": "加里奥", "size": 13.50, "image": "加里奥.png"},
+        {"name": "亚托克斯", "size": 12.60, "image": "亚托克斯.png"},
+        {"name": "雷克塞", "size": 11.90, "image": "雷克塞.png"},
+        {"name": "可酷伯", "size": 0.50, "image": "可酷伯.png"},
+        {"name": "塔姆", "size": 8.50, "image": "塔姆.png"},
+        {"name": "锐雯", "size": 9.90, "image": "锐雯.png"}
+      ]
+    },
+    {
+      "name": "护卫",
+      "size": 20.10,
+      "image": "护卫.png",
+      "children": [
+        {"name": "瑟提", "size": 17.50, "image": "瑟提.png"},
+        {"name": "俄洛伊", "size": 12.00, "image": "俄洛伊.png"},
+        {"name": "诺提勒斯", "size": 12.00, "image": "诺提勒斯.png"},
+        {"name": "阿木木", "size": 10.80, "image": "阿木木.png"},
+        {"name": "盖伦", "size": 8.10, "image": "盖伦.png"},
+        {"name": "贾克斯", "size": 7.10, "image": "贾克斯.png"},
+        {"name": "纳尔", "size": 3.90, "image": "纳尔.png"}
+      ]
+    },
+    {
+      "name": "死神",
+      "size": 18.80,
+      "image": "死神.png",
+      "children": [
+        {"name": "凯隐", "size": 16.40, "image": "凯隐.png"},
+        {"name": "永恩", "size": 15.20, "image": "永恩.png"},
+        {"name": "卡兹克", "size": 14.80, "image": "卡兹克.png"},
+        {"name": "千珏", "size": 11.30, "image": "千珏.png"}
+      ]
+    },
+    {
+      "name": "擎天卫",
+      "size": 18.80,
+      "image": "擎天卫.png",
+      "children": [
+        {"name": "乌迪尔", "size": 21.40, "image": "乌迪尔.png"},
+        {"name": "慎", "size": 11.90, "image": "慎.png"},
+        {"name": "莫菲特", "size": 10.10, "image": "莫菲特.png"},
+        {"name": "约里克", "size": 9.70, "image": "约里克.png"},
+        {"name": "奥恩", "size": 8.90, "image": "奥恩.png"},
+        {"name": "科加斯", "size": 8.60, "image": "科加斯.png"},
+        {"name": "锤石", "size": 5.20, "image": "锤石.png"}
+      ]
+    },
+    {
+      "name": "神谕",
+      "size": 17.00,
+      "image": "神谕.png",
+      "children": [
+        {"name": "阿兹尔", "size": 16.80, "image": "阿兹尔.png"},
+        {"name": "安妮", "size": 16.40, "image": "安妮.png"},
+        {"name": "迦娜", "size": 11.50, "image": "迦娜.png"},
+        {"name": "莉莉娅", "size": 11.10, "image": "莉莉娅.png"},
+        {"name": "拉露恩", "size": 10.20, "image": "拉露恩.png"},
+        {"name": "克格莫", "size": 10.70, "image": "克格莫.png"}
+      ]
+    },
+    {
+      "name": "迅捷射手",
+      "size": 12.90,
+      "image": "迅捷射手.png",
+      "children": [
+        {"name": "卡莎", "size": 10.40, "image": "卡莎.png"},
+        {"name": "希维尔", "size": 8.70, "image": "希维尔.png"},
+        {"name": "提莫", "size": 6.40, "image": "提莫.png"},
+        {"name": "巴德", "size": 2.10, "image": "巴德.png"},
+        {"name": "霞", "size": 19.80, "image": "霞.png"}
+      ]
+    },
+    {
+      "name": "吉星",
+      "size": 1.20,
+      "image": "吉星.png",
+      "children": [
+        {"name": "安妮", "size": 16.40, "image": "安妮.png"},
+        {"name": "克格莫", "size": 10.70, "image": "克格莫.png"},
+        {"name": "佐伊", "size": 9.10, "image": "佐伊.png"},
+        {"name": "提莫", "size": 6.40, "image": "提莫.png"},
+        {"name": "崔丝塔娜", "size": 4.30, "image": "崔丝塔娜.png"},
+        {"name": "可酷伯", "size": 0.50, "image": "可酷伯.png"}
+      ]
+    }
+  ]
+}
+
+  
